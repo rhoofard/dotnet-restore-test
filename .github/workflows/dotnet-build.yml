@@ -24,9 +24,9 @@ jobs:
         mkdir dotnet-dir; tar xf dotnet-sdk-8.0.100-linux-x64.tar.gz -C
         dotnet-dir ; echo $(pwd)/dotnet-dir/ >> $GITHUB_PATH
     - name: dotnet restore
-      run: dotnet restore ./web-api/source/my app.sln
+      run: dotnet restore ./web-api/source/'my app.sln'
     - name: dotnet build
-      run: dotnet build ./web-api/source/my app.sln --configuration
+      run: dotnet build ./web-api/source/'my app.sln' --configuration
         Release --no-restore
 
 
