@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/foo/foo.csproj": {}
+    "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/web-api/source/foo/foo.csproj": {}
   },
   "projects": {
-    "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/foo/foo.csproj": {
+    "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/web-api/source/foo/foo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/foo/foo.csproj",
+        "projectUniqueName": "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/web-api/source/foo/foo.csproj",
         "projectName": "foo",
-        "projectPath": "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/foo/foo.csproj",
+        "projectPath": "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/web-api/source/foo/foo.csproj",
         "packagesPath": "/Users/rhoofard/.nuget/packages/",
-        "outputPath": "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/foo/obj/",
+        "outputPath": "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/web-api/source/foo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rhoofard/.nuget/NuGet/NuGet.Config"

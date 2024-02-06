@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJn9jesWXJbew6pUv2GNM1KxpJrRJ8G5syyZ25j2mLaBnM6Hdy4cPq/B3aSFHZ/vMlZeSp7VmTnBL98j4T6Lqw==",
+  "success": true,
+  "projectFilePath": "/Users/rhoofard/Documents/GitHub/dotnet-restore-test/web-api/source/foo/foo.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
