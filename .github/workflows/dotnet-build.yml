@@ -20,7 +20,7 @@ jobs:
 
     - name: dotnet install
       run: wget --no-verbose
-        https://download.visualstudio.microsoft.com/download/r/5226a5fa-8c0b-474f-b79a-8984ad7c5beb/3113ccbf789c9fd29972835f0f334b7a/dotnet-sdk-8.0.100-linux-x64.tar.gz;
+        https://download.visualstudio.microsoft.com/download/pr/5226a5fa-8c0b-474f-b79a-8984ad7c5beb/3113ccbf789c9fd29972835f0f334b7a/dotnet-sdk-8.0.100-linux-x64.tar.gz;
         mkdir dotnet-dir; tar xf dotnet-sdk-8.0.100-linux-x64.tar.gz -C
         dotnet-dir ; echo $(pwd)/dotnet-dir/ >> $GITHUB_PATH
     - name: dotnet restore
